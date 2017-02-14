@@ -1,3 +1,4 @@
 /com/
 
 *.class
+/kserver.keystore
