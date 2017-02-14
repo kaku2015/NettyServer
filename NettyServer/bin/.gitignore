@@ -2,3 +2,4 @@
 
 *.class
 /kserver.keystore
+/tserver.keystore
